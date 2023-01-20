@@ -1,0 +1,205 @@
+%!Adobe-FontList 1.22
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareL
+FamilyName:NanumSquare
+StyleName:Light
+FullName:NanumSquare Light
+MenuName:나눔스퀘어 Light
+StyleBits:0
+FamilyNameNative:나눔스퀘어
+StyleNameNative:Light
+FullNameNative:나눔스퀘어 Light
+WritingScript:Korean
+OutlineFileName:D:\오정윤\Potofolio\Font\NanumSquareL.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:750932
+FileModTime:1474445892
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Light
+NameArray:3,Mac,4,나눔스퀘어 Light
+NameArray:0,Win,1,NanumSquare Light
+NameArray:0,Win,16,NanumSquare
+NameArray:3,Win,1,나눔스퀘어 Light
+NameArray:3,Win,16,나눔스퀘어
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareNeoTTF-bRg
+FamilyName:NanumSquare Neo
+StyleName:Regular
+FullName:NanumSquare Neo Regular
+MenuName:나눔스퀘어 네오 Regular
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오
+StyleNameNative:Regular
+FullNameNative:나눔스퀘어 네오 Regular
+WritingScript:Korean
+OutlineFileName:D:\오정윤\Potofolio\Font\NanumSquareNeo-bRg.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2189500
+FileModTime:1657774481
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo Regular
+NameArray:3,Mac,4,나눔스퀘어 네오 Regular
+NameArray:0,Win,1,NanumSquare Neo Regular
+NameArray:0,Win,16,NanumSquare Neo
+NameArray:3,Win,1,나눔스퀘어 네오 Regular
+NameArray:3,Win,16,나눔스퀘어 네오
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareNeoTTF-dEb
+FamilyName:NanumSquare Neo
+StyleName:ExtraBold
+FullName:NanumSquare Neo ExtraBold
+MenuName:나눔스퀘어 네오 ExtraBold
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오
+StyleNameNative:ExtraBold
+FullNameNative:나눔스퀘어 네오 ExtraBold
+WritingScript:Korean
+OutlineFileName:D:\오정윤\Potofolio\Font\NanumSquareNeo-dEb.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2155384
+FileModTime:1657774392
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo ExtraBold
+NameArray:3,Mac,4,나눔스퀘어 네오 ExtraBold
+NameArray:0,Win,1,NanumSquare Neo ExtraBold
+NameArray:0,Win,16,NanumSquare Neo
+NameArray:3,Win,1,나눔스퀘어 네오 ExtraBold
+NameArray:3,Win,16,나눔스퀘어 네오
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareR
+FamilyName:NanumSquare
+StyleName:Regular
+FullName:NanumSquare Regular
+MenuName:나눔스퀘어
+StyleBits:0
+FamilyNameNative:나눔스퀘어
+StyleNameNative:Regular
+FullNameNative:나눔스퀘어 Regular
+WritingScript:Korean
+OutlineFileName:D:\오정윤\Potofolio\Font\NanumSquareR.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:723640
+FileModTime:1474445892
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Regular
+NameArray:3,Mac,4,나눔스퀘어 Regular
+NameArray:3,Mac,18,나눔스퀘어
+NameArray:0,Win,1,NanumSquare
+NameArray:0,Win,16,NanumSquare
+NameArray:3,Win,1,나눔스퀘어
+NameArray:3,Win,16,나눔스퀘어
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SBAggroB
+FamilyName:SB Aggro
+StyleName:Bold
+FullName:SB Aggro Bold
+MenuName:SB 어그로 Bold
+StyleBits:0
+FamilyNameNative:SB 어그로
+StyleNameNative:Bold
+FullNameNative:SB 어그로 Bold
+WritingScript:Korean
+OutlineFileName:D:\오정윤\Potofolio\Font\SB 어그로 B.ttf
+DataFormat:sfntData
+hasSVG:yes
+VariableFontType:NonVariableFont
+FileLength:565236
+FileModTime:1629453506
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,SB Aggro Bold
+NameArray:0,Win,16,SB Aggro
+NameArray:3,Win,1,SB 어그로 Bold
+NameArray:3,Win,16,SB 어그로
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Swiss721BT-Black
+FamilyName:Swis721 Blk BT
+StyleName:Black
+FullName:Swiss 721 Black BT
+MenuName:Swis721 Blk BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\오정윤\Potofolio\Font\Swiss721BlackBT.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36460
+FileModTime:1444341600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Swiss 721 Black BT
+NameArray:0,Win,1,Swis721 Blk BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VinetaBT-Regular
+FamilyName:Vineta BT
+StyleName:Regular
+FullName:Vineta BT
+MenuName:Vineta BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\오정윤\Potofolio\Font\VinetaRg.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66084
+FileModTime:1672631154
+WeightClass:400
+WidthClass:6
+AngleClass:0
+NameArray:0,Mac,4,Vineta BT
+NameArray:0,Win,1,Vineta BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\오정윤\Potofolio\Font\font.css
+FileModTime:1672899990
+%EndFont
+
