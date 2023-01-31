@@ -15,6 +15,7 @@ height: 100vh;}
 /*부드러운 스크롤 효과*/
 html {
     scroll-behavior: smooth;
+    width: 1920px;
   }
   .all{
     position: relative;
